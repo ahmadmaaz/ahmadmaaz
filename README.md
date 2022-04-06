@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ahmadmaaz
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : ahmad_maaz@Outlook.com
+- Portfolio: https://ahmadmaaz.herokuapp.com/
 
 <!---
 ahmadmaaz/ahmadmaaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
